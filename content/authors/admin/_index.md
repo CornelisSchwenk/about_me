@@ -128,7 +128,9 @@ skills:
       - name: Bash
         percent: 50
         icon: devicon/bash
-        
+      - name: LateX
+        percent: 90
+        icon: devicon/LateX
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
