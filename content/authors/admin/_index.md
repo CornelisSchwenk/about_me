@@ -171,7 +171,7 @@ awards:
 #    date: '2023-07-01'
     awarder: TPChange Research Collaboration
 #    icon: edx
-    summary: Best Poster Presentation Award, TPChange Annual Meeting, Year Awarded for excellence in presenting research findings during my PhD at the annual meetings of TPChange in 2023 and 2025, recognizing the clarity, impact, and innovation of my work. 
+    summary: Best Poster Presentation Award, TPChange Annual Meeting, 2023 and 2025 Awarded for excellence in presenting research findings during my PhD at the annual meetings of TPChange in 2023 and 2025, recognizing the clarity, impact, and innovation of my work. 
 #  - title: 'Object-Oriented Programming in R'
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #    certificate_url: https://www.datacamp.com
