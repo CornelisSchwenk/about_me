@@ -128,9 +128,6 @@ skills:
       - name: Bash
         percent: 50
         icon: devicon/bash
-      - name: LateX
-        percent: 90
-        icon: devicon/LateX
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -169,16 +166,12 @@ awards:
     summary:  Awarded first place in the Schwoerbel-Benndorf Nachwuchspreis by the Deutsche Gesellschaft für Limnologie (German Limnological Society) in recognition of my outstanding research in the field of limnology. Ranking was determined by the audience judging the quality of the presentation at the annual conference. 
 
    
- # - title: Blockchain Fundamentals
+  - title: Best Poster Presentation Award (2023 and 2025)
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
-#    awarder: edX
+    awarder: TPChange Research Collaboration
 #    icon: edx
-#    summary: |
-#      Learned:
-#      - Synthesize your own blockchain solutions
-#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to #Bitcoin’s Proof-of-Work consensus algorithm
+    summary: Best Poster Presentation Award, TPChange Annual Meeting, Year Awarded for excellence in presenting research findings during my PhD at the annual meetings of TPChange in 2023 and 2025, recognizing the clarity, impact, and innovation of my work. 
 #  - title: 'Object-Oriented Programming in R'
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #    certificate_url: https://www.datacamp.com
