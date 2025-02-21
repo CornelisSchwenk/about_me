@@ -12,6 +12,8 @@ authors:
 date: "2022-09-01T00:00:00Z"
 doi: "10.1016/j.scitotenv.2022.155859"
 
+featured: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-09-01T00:00:00Z"
 
