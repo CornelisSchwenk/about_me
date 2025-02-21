@@ -182,3 +182,11 @@ languages:
 ## About Me
 
 I am a final-year PhD student in atmospheric physics at the University of Mainz, specializing in numerical modeling, high-performance computing, and large-scale atmospheric data analysis. My passion is combating climate change, advocating for sustainable energy and practices, and striving for a more ethical, environmentally responsible future.
+
+Skills and Strengths
+- Advanced coding in Python and Julia for data analysis, including high-performance computing (HPC).
+- Great at public speaking, presenting, and science communication; award-winning presentations and posters.
+- Leadership and teamwork skills; mentored students and supported peers in developing research and presentation abilities.
+
+International Experience
+- Multicultural upbringing in multiple countries; developed strong intercultural communication and adaptability skills.
