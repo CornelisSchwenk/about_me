@@ -122,6 +122,13 @@ skills:
         description: ''
         percent: 40
         icon: devicon/fortran
+      - name: Git
+        percent: 60
+        icon: devicon/git
+      - name: Bash
+        percent: 50
+        icon: devicon/bash
+        
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
