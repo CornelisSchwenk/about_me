@@ -187,6 +187,4 @@ Skills and Strengths
 - Advanced coding in Python and Julia for data analysis, including high-performance computing (HPC).
 - Great at public speaking, presenting, and science communication; award-winning presentations and posters.
 - Leadership and teamwork skills; mentored students and supported peers in developing research and presentation abilities.
-
-International Experience
 - Multicultural upbringing in multiple countries; developed strong intercultural communication and adaptability skills.
