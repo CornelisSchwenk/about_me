@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:c.schwenk@uni-mainz.de'
     label: E-mail Me
-  - icon: brands/Linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/cornelis-schwenk/
     label: My Linkedin Page
   - icon: brands/github
@@ -153,7 +153,7 @@ languages:
   - name: German
     percent: 100
   - name: Danish
-    percent: 60
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
