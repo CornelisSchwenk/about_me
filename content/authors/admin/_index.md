@@ -33,10 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:c.schwenk@uni-mainz.de'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
+  - icon: brands/Linkedin
+    url: https://www.linkedin.com/in/cornelis-schwenk/
+    label: My Linkedin Page
   - icon: brands/github
     url: https://github.com/CornelisSchwenk
+    label: My Github Page
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Qc99ieMAAAAJ&hl=de
   #- icon: brands/instagram
